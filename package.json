@@ -1,0 +1,24 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjtiglao/music-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjtiglao/music-bot/issues"
+  },
+  "homepage": "https://github.com/rjtiglao/music-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
